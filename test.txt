@@ -1,3 +1,5 @@
-This is a new test file
+== This is a new test file ==
 Changed from Windows
 Added extra line
+================
+Added some text and changed first line
