@@ -27,6 +27,6 @@ And the thirh one
 |Meylemans|Ken|22|
 |joke|zottekop|34|
 
-test
+*test*
 
-test 33
+~~test 33~~
