@@ -15,6 +15,6 @@ And the thirh one
 
 | Tables | are | cool|
 | -------|:---:| ---:|
-| cl3    | RA  | €100|
+| cl3    | RAAADA  | €100|
 | cl2    | ct  | €50 |
 
