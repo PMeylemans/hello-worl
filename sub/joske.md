@@ -30,3 +30,9 @@ And the thirh one
 *test*
 
 ~~test 33~~
+
+|lef align| centre align| right align|
+|:---|:---:|---:|
+|some text|some text|some text|
+|and a loger one| a shorter one| -| 
+
