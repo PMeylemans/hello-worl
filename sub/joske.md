@@ -35,4 +35,5 @@ And the thirh one
 |:---|:---:|---:|
 |some text|some text|some text|
 |and a loger one| a shorter one| -| 
+|abc|def|---|
 
