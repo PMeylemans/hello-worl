@@ -1,10 +1,21 @@
 Scripts used to disable Ubuntu uploading data (default setting) and also disable IPV6 and firewall
-=
-==
-How to use
-==
+--
 
-\# cd /tmp 
+```Console
+# cd /tmp
+# git clone -b cleanup https://github.com/PMeylemans/Hello-worl.git
+# cd hello-worl
+# cd code
+# chmod +x cleanup.sh
+# ./cleanup.sh
+# reboot
+```
+
+
+\# test
+
+\# cd /tmp
+
 \# git clone -b cleanup https://github.com/PMeylemans/Hello-worl.git
 
 - Run the code
@@ -20,7 +31,7 @@ How to use
 *Another table*
 
 | naam | Vnaam | age|
-| ----| ---| ----:|
+| :----| :---| ----:|
 | Meylemans|Patrick|58|
 |D'Hondt|Regina|56|
 |Meylemans|Ken|22|
