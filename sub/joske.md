@@ -12,23 +12,20 @@ Scripts used to disable Ubuntu uploading data (default setting) and also disable
 ```
 
 
-\# test
-
-\# cd /tmp
-
-\# git clone -b cleanup https://github.com/PMeylemans/Hello-worl.git
-
 - Run the code
-- Reboot machine
-- Test
-- Clean up and remove the scripts
+  - Reboot machine
+  - Test
+    - Clean up and remove the scripts
+  - Test 2
+- test
+
 
 | Tables | are | cool|
 | -------|:---:| ---:|
 | cl3    | RAAADA  | €100|
 | cl2    | ct  | €50 |
 
-*Another table*
+## Another table
 
 | naam | Vnaam | age|
 | :----| :---| ----:|
