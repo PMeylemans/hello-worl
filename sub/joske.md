@@ -1,17 +1,16 @@
-this is a test
-===
-From Virtualbox
-==
-And the thirh one
+Scripts used to disable Ubuntu uploading data (default setting) and also disable IPV6 and firewall
 =
+==
+How to use
+==
 
-*should be in itallic* 
+\# cd /tmp 
+\# git clone -b cleanup https://github.com/PMeylemans/Hello-worl.git
 
-#should be other#
-
-**testjes**
-
-~~between slangeskes~~
+- Run the code
+- Reboot machine
+- Test
+- Clean up and remove the scripts
 
 | Tables | are | cool|
 | -------|:---:| ---:|
