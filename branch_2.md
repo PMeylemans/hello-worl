@@ -19,6 +19,7 @@ And the thirh one
 | cl2    | ct  | €50 |
 
 *Another table*
+-- test --
 
 | naam | Vnaam | age|
 | ----| ---| ----:|
