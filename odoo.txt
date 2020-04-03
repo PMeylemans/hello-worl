@@ -1,2 +1,4 @@
 odoo the ERP system who is booming
 this is from Mac
+
+This is some text from Pycharm on T1500 machine
