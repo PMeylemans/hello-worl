@@ -1,1 +1,2 @@
-This is a test in a new filw from Ubuntu on Virtualbox on Mac
+This is a test in a new file from Ubuntu on Virtualbox on Mac
+Changed and corrected some errors
